@@ -1,0 +1,30 @@
+body, ul, li{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+    font: 20px;
+}
+
+.link_button{
+    border: 2px solid yellow;
+    width: 80px;
+    text-align: center;
+}
+
+.menu_itens{
+    display: block;
+    float: left;
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.menu{
+    width: 400px;
+    height: 60px;
+    background: black;
+}

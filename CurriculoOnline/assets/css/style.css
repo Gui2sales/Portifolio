@@ -1,0 +1,28 @@
+body, div{
+    border: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    margin-left: 5px;
+}
+h3, p, span{
+    margin-left: 8px;
+}
+
+
+.cabecalho{
+    border-bottom: solid blue 2px;
+}
+.formacao, .experiencia, .habilidades, .objetivo{
+    border: solid brown 1px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.contato{
+    border: 1px solid black;
+}
+.negrito{
+    font-weight: bold;
+}
